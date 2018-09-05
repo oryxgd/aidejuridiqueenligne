@@ -7,6 +7,8 @@ categories:
 
 # LA NOUVELLE FISCALITE DU COUPLE
 
+(Source : Journal d'information des Notaires)
+
 Aujourd'hui, la fiscalité prend en compte les différents couples : concubins, pacsés, et époux mariés.  
 La loi pour le travail, l'emploi et le pouvoir d'acaht, dite loi « TEPA » du 21 août 2007 contient des dispositions intéressant cette fiscalité des couples.
 
