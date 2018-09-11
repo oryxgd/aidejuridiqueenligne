@@ -4,6 +4,7 @@ header:
   overlay_image: "/assets/images/agrandir-sa-maison.jpg"
   overlay_filter: rgba(65, 63, 63, 0.5)
   show_overlay_excerpt: false
+redirect_from: "/article-agrandir-sa-maison.129526.18031.html"  
 ---
 Vous souhaitez étendre votre maison pour gagner de l'espace ? Les possibilités qui s'offrent à vous dépendent des règles d'urbanisme propres à votre commune. Il convient de bien préparer ce projet car les formalités administratives restent complexes.
 
