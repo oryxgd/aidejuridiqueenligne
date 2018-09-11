@@ -2,6 +2,8 @@
 title: "Layout: Header Image and Text Readability"
 header:
   overlay_image: /assets/images/assurance-vie.jpg
+  overlay_filter: rgba(65, 63, 63, 0.5)
+  show_overlay_excerpt: false
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - sample post
