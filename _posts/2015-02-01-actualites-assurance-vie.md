@@ -6,7 +6,7 @@ categories:
   - Droit civil
   - Assurance vie
 permalink: /actualites-assurance-vie  
-origin_url: http://www.aide-juridique-en-ligne.fr/article-actualites-assurance-vie.129526.2672.html
+redirect_from: "/article-actualites-assurance-vie.129526.2672.html"
 ---
 
 # ASSURANCE VIE : d'une acceptation « subie » à une acceptation « concertée » du contrat.
