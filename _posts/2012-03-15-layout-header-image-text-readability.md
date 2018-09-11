@@ -5,6 +5,7 @@ header:
   overlay_filter: rgba(65, 63, 63, 0.5)
   show_overlay_excerpt: false
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+toc: true
 tags: 
   - sample post
   - readability
