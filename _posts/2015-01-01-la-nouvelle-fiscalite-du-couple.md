@@ -1,12 +1,9 @@
 ---
-title: "La Nouvelle Fiscalite du Couple"
+title: "La Nouvelle Fiscalité du Couple"
 categories:
   - Droit civil
   - Couples et fiscalité
 ---
-
-# LA NOUVELLE FISCALITE DU COUPLE
-
 (Source : Journal d'information des Notaires)
 
 Aujourd'hui, la fiscalité prend en compte les différents couples : concubins, pacsés, et époux mariés.  
