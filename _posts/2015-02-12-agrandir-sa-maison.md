@@ -1,7 +1,7 @@
 ---
 title: "Agrandir Sa Maison"
 header:
-  overlay_image: /assets/images/agrandir-sa-maison.jpg
+  overlay_image: "/assets/images/agrandir-sa-maison.jpg"
   overlay_filter: rgba(65, 63, 63, 0.5)
   show_overlay_excerpt: false
 toc: true
