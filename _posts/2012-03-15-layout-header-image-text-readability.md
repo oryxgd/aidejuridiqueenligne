@@ -1,7 +1,7 @@
 ---
 title: "Layout: Header Image and Text Readability"
 header:
-  image: /assets/images/assurance-vie.jpg
+  overlay_image: /assets/images/assurance-vie.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 tags: 
   - sample post
