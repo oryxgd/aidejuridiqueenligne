@@ -1,5 +1,7 @@
 ---
 title: "Actualités assurance-vie"
+header:
+  image: http://www.jepargneenligne.com/wp-content/uploads/2017/02/Image-principale.jpg
 categories:
   - Droit civil
   - Assurance vie
