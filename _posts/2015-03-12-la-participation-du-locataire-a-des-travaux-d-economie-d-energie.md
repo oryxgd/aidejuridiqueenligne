@@ -21,7 +21,7 @@ La question est de savoir si la concertation doit aboutir à un accord ou s'il s
 Toutefois, le droit des baux d'habitation oblige le locataire à laisser s'exécuter les travaux d'amélioration des parties communes et privatives (autres logements) de l'immeuble, mais l'autorise à refuser des travaux d'amélioration des lieux loués. Il faudrait alors, si l'immeuble est en copropriété, passer par une décision de l'assemblée générale (relevant de l'article 25 g) de la loi du 10 juillet 1965). Le locataire ne peut en effet s'opposer à la réalisation des travaux ainsi décidés (travaux d'économie d'énergie portant sur l'isolation thermique, le renouvellement de l'air, le système de chauffage et la production d'eau chaude). 
 ## Les travaux visés
 Une contribution peut être demandée au locataire pour financer, au choix du bailleur et selon la date d'achèvement de l'immeuble, deux types de travaux d'économie d'énergie.
-## Première option : combinaison de deux types de travaux
+### Première option : combinaison de deux types de travaux
 Les travaux peuvent combiner au moins deux actions d'amélioration de la performance énergétique choisies parmi les actions suivantes:
 * travaux d'isolation thermique des toitures;
 * travaux d'isolation thermique des murs donnant sur l'extérieur;
@@ -38,7 +38,7 @@ De plus, ces travaux et le niveau minimal de performance énergétique atteint d
 
 Ces travaux doivent être réalisés dans un bâtiment achevé avant le 1er janvier 1990. Si l'immeuble est antérieur au 1er janvier 1948, ce « bouquet de travaux » est la seule possibilité offerte au propriétaire.
 
-## Deuxième option : un ensemble de travaux de réduction de la consommation d'énergie
+### Deuxième option : un ensemble de travaux de réduction de la consommation d'énergie
 Pour les bâtiments achevés entre le 1er janvier 1948 et 31 décembre 1989, le bailleur peut aussi choisir d'atteindre une performance énergétique globale. Il devra alors réaliser des travaux conformes à certaines exigences (CCH, articles R. 131-25 à R, 131-28] et permettant d'amener la consommation d'énergie du bâtiment, pour le chauffage, la ventilation, la production d'eau chaude sanitaire, le refroidissement et l'éclairage, en dessous d'un seuil défini par l'arrêté du 23 novembre 2009, qui tient compte de la zone climatique et de l'altitude.
 ## La contribution du locataire
 La contribution du locataire peut être fixée de deux manières : par calcul de l'économie ou de manière forfaitaire. Dans tous les cas, elle ne pourra être supérieure à la moitié du montant de l'économie d'énergie estimée.
