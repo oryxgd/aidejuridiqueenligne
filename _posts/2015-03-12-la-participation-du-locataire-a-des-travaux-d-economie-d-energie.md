@@ -1,7 +1,7 @@
 ---
 title: "La participation du locataire à des travaux d'économie d'énergie"
 header:
-  overlay_filter: rgba(65, 63, 63, 0.25)
+  overlay_color: rgba(65, 63, 63, 0.25)
   show_overlay_excerpt: false
 toc: true
 categories:
