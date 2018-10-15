@@ -50,3 +50,5 @@ Dans certains cas, et compte tenu des nouvelles dispositions fiscales, le conjoi
 Par ailleurs, le conjoint survivant qui bénéficie d'une donation e époux peut limiter, « cantonner » la donation et décider de recevoir seulement une partie des biens qu'il reçoit, voire un bien en particulier. Fiscalement, ce n'est pas considéré comme une donation. Le cantonnement permet une liberté accrue dans la gestion du dossier de succession. Enfin, l'optimisation fiscale est indispensable, mais il ne faut pas perdre de vue les intérêts civils.  
 En effet, par exemple :  
 le PACS permet une optimisation fiscale mais il crée des obligations : les partenaires s'engagent à une assisance réciproque assimilable au devoir de secours entre époux; il est possible de prévoir un aménagement du régime matrimonial pour une libre disposition de la résidence principale, aménagement utile notamment dans le cas (de plus en plus fréquent) des familles recomposées.
+
+Source: [http://avocatdivorcelyon.fr](http://avocatdivorcelyon.fr)
